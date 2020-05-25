@@ -1,6 +1,6 @@
 # CoronaRiskScoring
 
-This is an effort to have a broad discussion around risk scoring algorithms in Bluetooth based corona-tracking apps. 
+This is an effort to have a broad and comparative discussion around risk scoring algorithms in Bluetooth based corona-tracking apps. 
 
 Projects:
 - [French project](https://gitlab.inria.fr/stopcovid19)
