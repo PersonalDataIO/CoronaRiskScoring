@@ -10,6 +10,7 @@ Projects:
 - [DP3T](https://github.com/DP-3T/)
 - [MITL/PACT East](https://github.com/mitll/)
 - [SafePath](https://github.com/Path-Check)
+- [Immuni](https://github.com/immuni-app)
 - < many we are missing >
 
 
