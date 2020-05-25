@@ -7,6 +7,9 @@ Projects:
 - [German project](https://github.com/corona-warn-app)
 - [OpenCoronavirus](https://github.com/open-coronavirus)
 - [NHSx](https://github.com/nhsx/)
+- [DP3T](https://github.com/DP-3T/)
+- [MITL/PACT East](https://github.com/mitll/)
+- [SafePath](https://github.com/Path-Check)
 - <many we are missing>
 
 
@@ -19,4 +22,8 @@ Please consider:
 * Android vs iOS
 * Bluetooth ranging (is there an explicit step to produce a distance measurement?)
 * How is risk calculated from a distance measurement?
+* How transparent the app is about the whole process?
 * ...
+
+# How to assist?
+If you have experience contributing to or setting up a project such as this one, please provide suggestions on how to improve (for instance which features should we use?)
