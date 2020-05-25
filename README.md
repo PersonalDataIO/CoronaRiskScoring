@@ -10,7 +10,7 @@ Projects:
 - [DP3T](https://github.com/DP-3T/)
 - [MITL/PACT East](https://github.com/mitll/)
 - [SafePath](https://github.com/Path-Check)
-- <many we are missing>
+- < many we are missing >
 
 
 # How to contribute?
