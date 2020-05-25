@@ -23,6 +23,7 @@ Please consider:
 * Bluetooth ranging (is there an explicit step to produce a distance measurement?)
 * How is risk calculated from a distance measurement?
 * How transparent the app is about the whole process?
+* see also #2
 * ...
 
 # How to assist?
