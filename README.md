@@ -8,7 +8,7 @@ Projects analyzed:
 - UK: [NHSx](https://github.com/nhsx/)
 - [MITL/PACT East](https://github.com/mitll/)
 - [SafePath](https://github.com/Path-Check)
-- Google [wiki](https://github.com/PersonalDataIO/CoronaRiskScoring/wiki/Google-Exposure-Notification-framework-configuration)/Apple [wiki](https://github.com/PersonalDataIO/CoronaRiskScoring/wiki/Apple-Exposure-Notification-framework-configuration) Exposure Notification based
+- Google ([wiki](https://github.com/PersonalDataIO/CoronaRiskScoring/wiki/Google-Exposure-Notification-framework-configuration))/Apple ([wiki](https://github.com/PersonalDataIO/CoronaRiskScoring/wiki/Apple-Exposure-Notification-framework-configuration)) Exposure Notification based
   - Switzerland: [SwissCovid](https://github.com/DP-3T/)
   - Germany: [Corona Warn](https://github.com/corona-warn-app)
   - Italy: [Immuni](https://github.com/immuni-app)
