@@ -2,6 +2,12 @@
 
 This is an effort to have a broad and comparative discussion around risk scoring algorithms in Bluetooth based corona-tracking apps, highlighting subtle nuances in their conception and parametrization. 
 
+It is worth reminding all those going through those pages that:
+* Bluetooth only serves in those apps as a proxy for distance;
+* that it is [very imperfect](https://medium.com/personaldata-io/inferring-distance-from-bluetooth-signal-strength-a-deep-dive-fe7badc2bb6d);
+* that there is a lot of selection bias in the data;
+* that it is not clear such interventions are more helpful than alternatives.
+
 Projects analyzed:
 - France: [StopCovid](https://gitlab.inria.fr/stopcovid19)
 - [OpenCoronavirus](https://github.com/open-coronavirus)
