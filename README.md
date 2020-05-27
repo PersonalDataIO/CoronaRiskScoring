@@ -17,7 +17,7 @@ Projects analyzed:
 - Austria: [StoppKorona](https://github.com/austrianredcross)
 - Norway: [SmitteStopp](https://www.simula.no/news/digital-contact-tracing-qa)
 - Google ([wiki](https://github.com/PersonalDataIO/CoronaRiskScoring/wiki/Google-Exposure-Notification-framework-configuration))/Apple ([wiki](https://github.com/PersonalDataIO/CoronaRiskScoring/wiki/Apple-Exposure-Notification-framework-configuration)) Exposure Notification based
-  - Switzerland: [SwissCovid](https://github.com/DP-3T/), see [issue #3](https://github.com/PersonalDataIO/CoronaRiskScoring/issues/3)
+  - Switzerland: [SwissCovid](https://github.com/DP-3T/), see [issue #3](https://github.com/PersonalDataIO/CoronaRiskScoring/issues/3). [configuration rationale](https://github.com/DP-3T/documents/blob/master/DP3T%20-%20Exposure%20Score%20Calculation.pdf)
   - Germany: [Corona Warn](https://github.com/corona-warn-app)
   - Italy: [Immuni](https://github.com/immuni-app)
 - 
