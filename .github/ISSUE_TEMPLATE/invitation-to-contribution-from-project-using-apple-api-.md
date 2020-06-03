@@ -8,7 +8,7 @@ assignees: ''
 
 ---
 
-The [CoronaRiskScoring](https://github.com/PersonalDataIO/CoronaRiskScoring/) project is trying to assess how different contact tracing apps are being parametrized. We are first focusing on apps using the Apple API as it will enable quickest comparison. 
+The [CoronaRiskScoring](https://github.com/PersonalDataIO/CoronaRiskScoring/) project is trying to assess how different contact tracing apps are being parametrized. We are first focusing on apps using the [Apple API](https://github.com/PersonalDataIO/CoronaRiskScoring/wiki/Apple-Exposure-Notification-framework-configuration) as it will enable quickest comparison. 
 
 **Project considered**
 We are looking at XXXX.
